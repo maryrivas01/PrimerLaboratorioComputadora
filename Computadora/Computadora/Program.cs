@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Computadora.Entidades;
+using Computadora.Negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +12,16 @@ namespace Computadora
     {
         static void Main(string[] args)
         {
-            Public String Cls
+            Clscomputadora clscomputadora = new Clscomputadora();
+            NclsComputadora nclscomputadora = new NclsComputadora();
 
+
+            clscomputadora.Procesador = "Intel";
+            clscomputadora.RAM = 8;
+            clscomputadora.Teclado = "Razer";
+
+
+           
 
 
 

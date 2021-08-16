@@ -8,5 +8,7 @@ namespace Computadora.Negocio
 {
     class NclsComputadora
     {
+        
+
     }
 }

@@ -10,6 +10,13 @@ namespace Computadora
     {
         static void Main(string[] args)
         {
+            Public String Cls
+
+
+
+
         }
     }
+
+
 }
